@@ -1,0 +1,22 @@
+{
+  "name": "yt-info",
+  "version": "1.0.0",
+  "description": "get youtube channels info",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Def.",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "moment": "^2.29.3",
+    "yt-channel-info": "^3.0.3"
+  },
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
